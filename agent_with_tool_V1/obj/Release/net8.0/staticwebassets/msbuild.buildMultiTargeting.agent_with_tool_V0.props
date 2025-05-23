@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\agent_with_tool_V0.props" />
+</Project>

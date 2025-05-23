@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M36LEzA+4quox4GT/PsxKmnjQP+mCbf3jZ6Dih5m5VM=",
+  "Source": "agent_with_tool_V0",
+  "BasePath": "_content/agent_with_tool_V0",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
